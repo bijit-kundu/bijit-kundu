@@ -91,7 +91,7 @@ In addition to professional experience, I’ve completed hands-on projects in:
 
 ## 💡 What I’m Focusing On
 - Enhancing my Power BI and DAX automation workflows  
-- Expanding Python data visualization projects (Plotly, Matplotlib)  
+- Expanding Python data visualization projects (Taipy, Plotly, Matplotlib)  
 - Building a portfolio of interactive analytics dashboards  
 
 ---
