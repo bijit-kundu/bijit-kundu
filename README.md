@@ -26,7 +26,7 @@ SQL · Python (pandas, NumPy) · Power BI · Power Query · DAX · Excel (Pivot,
 
 ## 📊 Featured Projects
 
-### 🟢 Mining Analytics Dashboard
+### 🟢 [Mining Analytics Dashboard](./powerbi-mining-analytics/)
 **Tools:** SQL · Power BI · DAX
 
 An end-to-end analytics solution to monitor production KPIs and equipment efficiency.  
