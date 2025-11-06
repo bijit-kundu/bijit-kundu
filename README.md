@@ -26,7 +26,7 @@ SQL · Python (pandas, NumPy) · Power BI · Power Query · DAX · Excel (Pivot,
 
 ## 📊 Featured Projects
 
-### 🟢 [Mining Analytics Dashboard](./powerbi-mining-analytics)
+### 🟢 Mining Analytics Dashboard
 **Tools:** SQL · Power BI · DAX
 
 An end-to-end analytics solution to monitor production KPIs and equipment efficiency.  
@@ -51,7 +51,7 @@ Developed a Python automation pipeline that exports daily KPIs from SQL and emai
 -->
 ---
 
-### 🧠 [Generative AI Chatbot for Pandas](./pandas-ai-chatbot)
+### 🧠 [Generative AI Chatbot for Pandas](https://github.com/bijit-kundu/pandas-helper)
 **Tools:** Python · nltk · spacy · transformers
 
 A local AI-powered chatbot designed to help users explore the Pandas library.  
