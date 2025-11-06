@@ -57,7 +57,10 @@ Developed a Python automation pipeline that exports daily KPIs from SQL and emai
 A local AI-powered chatbot designed to help users explore the Pandas library.  
 - Assists users in retrieving general information about Pandas-related keywords and guides them to the most relevant chapter for deeper insights.  
 - Demonstrated strong contextual understanding and accurate chapter classification in responses. 
-
+  
+📸 *Preview:*  
+![Chatbot Screenshot](./pandas-helper/pandas-helper-screenshot-1.png)  
+  
 🎥 *Demo:*  
 ![Chatbot Demo](./pandas-helper/pandas-helper.gif)
 
@@ -91,7 +94,7 @@ In addition to professional experience, I’ve completed hands-on projects in:
 
 ## 💡 What I’m Focusing On
 - Enhancing my Power BI and DAX automation workflows  
-- Expanding Python data visualization projects (Taipy, Plotly, Matplotlib)  
+- Expanding Python data visualization projects (Plotly, Matplotlib, Taipy)  
 - Building a portfolio of interactive analytics dashboards  
 
 ---
