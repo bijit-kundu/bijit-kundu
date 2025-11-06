@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bijit Kundu  
-### Data Analyst | SQL, Python, Power BI, Excel | Dashboard Automation  
+### Data Analyst | SQL | Python | Power BI | Excel | Dashboard Automation  
 📍 Perth, Western Australia | 💼 Available from 1 Dec, 2025  
 
 ---
