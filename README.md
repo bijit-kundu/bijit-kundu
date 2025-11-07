@@ -51,7 +51,7 @@ Developed a Python automation pipeline that exports daily KPIs from SQL and emai
 -->
 ---
 
-### 🧠 [Generative AI Chatbot for Pandas](https://github.com/bijit-kundu/pandas-helper)
+### 🤖 [Generative AI Chatbot for Pandas](https://github.com/bijit-kundu/pandas-helper)
 **Tools:** Python · nltk · spacy · transformers
 
 A local AI-powered chatbot designed to help users explore the Pandas library.  
@@ -97,7 +97,12 @@ In addition to professional experience, I’ve completed hands-on projects in:
 - Expanding Python data visualization projects (Plotly, Matplotlib, Taipy)  
 - Building a portfolio of interactive analytics dashboards  
 
----
+---  
+
+## 🧠 Recent Learnings
+- 📺 Watched [Dimensional Modelling Explained by Bryan Cafferky](https://www.youtube.com/watch?v=lWPiSZf7-uQ) — excellent breakdown of facts, dimensions, and star schemas.
+  
+---  
 
 ## 📬 Connect with Me
 
