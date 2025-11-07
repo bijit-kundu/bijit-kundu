@@ -100,6 +100,8 @@ In addition to professional experience, I’ve completed hands-on projects in:
 ---  
 
 ## 🧠 Recent Learnings
+- 🏫 Completed [Introduction to Data Modeling for Power BI – SQLBI](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/) - a 100-minute course covering dimensional modelling, star schemas and data model design.
+
 - 📺 Watched [Dimensional Modelling Explained by Bryan Cafferky](https://www.youtube.com/watch?v=lWPiSZf7-uQ) - excellent breakdown of facts, dimensions, and star schemas.
   
 ---  
