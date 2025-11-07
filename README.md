@@ -100,7 +100,7 @@ In addition to professional experience, I’ve completed hands-on projects in:
 ---  
 
 ## 🧠 Recent Learnings
-- 📺 Watched [Dimensional Modelling Explained by Bryan Cafferky](https://www.youtube.com/watch?v=lWPiSZf7-uQ) — excellent breakdown of facts, dimensions, and star schemas.
+- 📺 Watched [Dimensional Modelling Explained by Bryan Cafferky](https://www.youtube.com/watch?v=lWPiSZf7-uQ) - excellent breakdown of facts, dimensions, and star schemas.
   
 ---  
 
