@@ -88,6 +88,7 @@ In addition to professional experience, I’ve completed hands-on projects in:
 ## 🏆 Education
 
 🎓 **Data Science & AI Program - Curtin University x Institute of Data (2024)**  
+🎓 **Applied Data Analysis Skill Set - North Metropolitan TAFE (2023)**  
 🎓 **Master of Computer Applications - 8.29 DGPA (2012)**  
 
 ---
