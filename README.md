@@ -32,7 +32,7 @@ SQL · Python (pandas, NumPy) · Power BI · Power Query · DAX · Excel (Pivot,
 An end-to-end FX analytics pipeline that ingests historical exchange rates, builds calendar/currency dimensions, and loads curated fact tables into BigQuery for BI consumption.
 - Automated GitHub Actions workflow fetches API data daily, regenerates dimensions, and appends deduped fact rows in BigQuery.
 - Python ETL normalizes JSON responses, enriches records with Perth timestamps, and maintains dim_time/dim_currency tables via staging + MERGE logic.
-- Power BI can connect directly to the BigQuery dataset for timely dashboards.
+- Power BI, Looker Studio can connect directly to the BigQuery dataset for timely dashboards.
 
 ---
 
