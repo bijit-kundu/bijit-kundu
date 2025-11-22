@@ -26,13 +26,14 @@ SQL · Python (pandas, NumPy) · Power BI · Power Query · DAX · Excel (Pivot,
 
 ## 📊 Featured Projects
 
-### 💱 [Exchange Rates Data Platform](https://github.com/bijit-kundu/exchange-rates)
-**Tools:** Python · BigQuery · GitHub Actions  
+### [🌍 FX Exchange Rates Data Platform (AUD-Centric)](https://github.com/bijit-kundu/exchange-rates)
+**Tools:** Python · GitHub Actions · BigQuery · Looker Studio  
 
-An end-to-end FX analytics pipeline that ingests historical exchange rates, builds calendar/currency dimensions, and loads curated fact tables into BigQuery for BI consumption.
-- Automated GitHub Actions workflow fetches API data daily, regenerates dimensions, and appends deduped fact rows in BigQuery.
-- Python ETL normalizes JSON responses, enriches records with Perth timestamps, and maintains dim_time/dim_currency tables via staging + MERGE logic.
-- Power BI, Looker Studio can connect directly to the BigQuery dataset for timely dashboards.
+A fully automated end-to-end foreign-exchange analytics platform developed to analyse how the Australian Dollar (AUD) moves against leading global currencies.
+- The system ingests historical and daily exchange-rate data from ExchangeRatesAPI, processes it through a Python ETL workflow, and loads curated fact and dimension tables into BigQuery.
+- A scheduled GitHub Actions pipeline retrieves fresh data daily, normalizes JSON responses, regenerates calendar and currency dimensions, enriches records with Perth-timezone metadata, and performs incremental MERGE operations to maintain clean, deduplicated BigQuery tables.
+- The platform also includes a public Looker Studio dashboard, powered by aggregated BigQuery views, showcasing detailed insights such as long-term AUD trends, daily movements, monthly averages, weekday patterns, and min–max–current rate summaries across major global currencies.  
+👉 [Live Dashboard](https://lookerstudio.google.com/s/li-skA7iOf0)
 
 ---
 
