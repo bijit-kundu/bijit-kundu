@@ -30,7 +30,7 @@ SQL · Python (pandas, NumPy) · Power BI · Power Query · DAX · Excel (Pivot,
 **Tools:** Python · GitHub Actions · BigQuery · Looker Studio  
 
 A fully automated end-to-end foreign-exchange analytics platform developed to analyse how the Australian Dollar (AUD) moves against leading global currencies.
-- The system ingests historical and daily exchange-rate data from ExchangeRatesAPI, processes it through a Python ETL workflow, and loads curated fact and dimension tables into BigQuery.
+- The system ingests historical and daily exchange-rate data from [ExchangeRatesAPI](https://exchangeratesapi.io/), processes it through a Python ETL workflow, and loads curated fact and dimension tables into BigQuery.
 - A scheduled GitHub Actions pipeline retrieves fresh data daily, normalizes JSON responses, regenerates calendar and currency dimensions, enriches records with Perth-timezone metadata, and performs incremental MERGE operations to maintain clean, deduplicated BigQuery tables.
 - The platform also includes a public Looker Studio dashboard, powered by aggregated BigQuery views, showcasing detailed insights such as long-term AUD trends, daily movements, monthly averages, weekday patterns, and min–max–current rate summaries across major global currencies.  
 👉 [Live Dashboard](https://lookerstudio.google.com/s/li-skA7iOf0)
@@ -45,9 +45,10 @@ An end-to-end analytics solution to monitor production KPIs and equipment effici
 - Utilised DAX measures to calculate equipment utilisation rates.   
 
 📸 *Preview:*  
-![Mining Dashboard Screenshot](./powerbi-mining-analytics/Engineer_Dashboard.png)
-![Mining Dashboard Screenshot](./powerbi-mining-analytics/Manager_Dashboard.png)
-![Mining Dashboard Screenshot](./powerbi-mining-analytics/Executive_Dashboard.png)
+![Mining Dashboard Screenshot](./powerbi-mining-analytics/Engineer_Dashboard.png)  
+![Mining Dashboard Screenshot](./powerbi-mining-analytics/Manager_Dashboard.png)  
+![Mining Dashboard Screenshot](./powerbi-mining-analytics/Executive_Dashboard.png)  
+
 ---
 <!--
 ### ⚙️ [Dashboard Automation Script](./dashboard-automation-python)
