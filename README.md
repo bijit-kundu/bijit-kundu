@@ -14,7 +14,7 @@
 ## 🧰 Tech Stack
 
 **Languages & Tools:**  
-SQL · Python (pandas, NumPy) · Power BI · Power Query · DAX · Excel (Pivot, VBA) · Power Automate · Git · Docker  
+SQL · Python (pandas, NumPy) · Power BI · Power Query · DAX · Excel (Pivot, VBA) · Power Automate · BigQuery · Git · Docker  
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
