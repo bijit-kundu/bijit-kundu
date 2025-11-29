@@ -5,7 +5,7 @@
 ---
 
 ## 🧭 About Me
-- I’m a data-driven professional with 3.5+ years of experience supporting large-scale web applications for government clients and managing complex data processes.  
+- I’m a data-driven professional with nealry 4 years of experience supporting large-scale web applications for government clients and managing complex data processes.  
 - Recently, I completed a **Data Science and Artificial Intelligence Program (Curtin University x Institute of Data)** - where I strengthened my skills in **SQL, Python, AI/ML and data storytelling**.  
 - I’m passionate about transforming raw data into actionable insights, automating reporting workflows, and building intuitive dashboards that empower decision-making.
 
