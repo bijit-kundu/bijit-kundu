@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bijit Kundu  
 ### Data Analytics Professional | SQL, Python, Power BI, Excel, BigQuery, Dashboard automation  
-📍 Perth, Western Australia | 💼 Available from 1 Dec, 2025  
+📍 Perth, Western Australia | 💼 Immediately available for Data Analytics opportunities
 
 ---
 
@@ -25,6 +25,19 @@ SQL · Python (pandas, NumPy) · Power BI · Power Query · DAX · Excel (Pivot,
 ---
 
 ## 📊 Featured Projects
+
+### Supportdesk Performance Dashboard | Doghouse Agency  
+**Tools:** Python · GitHub Actions · BigQuery · PowerBI  
+
+- Designed and built an end-to-end analytics solution to track support operations using a Power BI semantic model connected to BigQuery.  
+- Developed a Python-based ETL pipeline to ingest, clean, and transform ticketing data, loading curated tables into BigQuery with automated daily refresh.  
+- Modelled data for analytics consumption, implemented aggregations for SLA monitoring, and created interactive dashboards visualising response times, resolution efficiency, workload trends, and team performance metrics; built with extensibility in mind to support future enhancements.  
+
+📸 *Preview:*  
+![Supportdesk Dashboard Screenshot](powerbi-supportdesk-dashboard/supportdesk-dashboard.png)  
+![Supportdesk Dashboard Screenshot](powerbi-supportdesk-dashboard/data-lineage.png)  
+
+---
 
 ### [🌍 FX Exchange Rates Data Platform (AUD-Centric)](https://github.com/bijit-kundu/exchange-rates)
 **Tools:** Python · GitHub Actions · BigQuery · Looker Studio  
