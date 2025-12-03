@@ -5,9 +5,11 @@
 ---
 
 ## 🧭 About Me
-- I’m a data-driven professional with nealry 4 years of experience supporting large-scale web applications for government clients and managing complex data processes.  
-- Recently, I completed a **Data Science and Artificial Intelligence Program (Curtin University x Institute of Data)** - where I strengthened my skills in **SQL, Python, AI/ML and data storytelling**.  
-- I’m passionate about transforming raw data into actionable insights, automating reporting workflows, and building intuitive dashboards that empower decision-making.
+- I am a data analytics professional with hands-on experience in Python, SQL, Power BI, and BigQuery, developing automated data pipelines, analytical models, and end-to-end reporting solutions that transform raw information into meaningful, decision-ready insights.  
+
+- My work spans building scalable ETL workflows, designing intuitive dashboards, and collaborating across support, product, and development teams to solve real business problems through data-driven thinking and continuous improvement.  
+
+- I am currently open to new opportunities and ready to contribute immediately, bringing a blend of technical capability, analytical mindset, and consulting experience to deliver reliable, high-impact outcomes in data analytics and engineering roles.  
 
 ---
 
